@@ -1,4 +1,4 @@
-Democracy, as it has been implemented so far, has been subject to several logistical constraints which got baked into the very design of the government. Today the world has changed drastically, but we are still saddled with this archaic system of government that is massively ineffective, however well-intentioned. For example, in the recent past, it was not practical to gather and aggregate the opinions of every citizen on every issue before the government. Hence, there was a need to elect representatives. In the Internet age, however, we can have richly expressive input from individual citizens, and the need for politicians is greatly reduced.
+Democracy, as it has been implemented so far, has been subject to several logistical constraints which got baked into the very design of the government. Centuries later, the world has changed drastically, but we are still saddled with this archaic system of government that is massively ineffective, however well-intentioned. For example, in the recent past, it was not practical to gather and aggregate the opinions of every citizen on every issue before the government. Hence, there was a need to elect representatives. In the Internet age, however, we can have richly expressive input from individual citizens, and the need for politicians is greatly reduced.
 
 The problems that stem from keeping an out-of-date system of government are many.
 
@@ -16,13 +16,13 @@ We, the people, demand a system of government that works for all of us, and not 
 
 # Proposed Solution
 
-I am proposing a system of government, where every citizen has equal influence on the government. Every adult citizen is president, all the time. Elections are not held periodically. Instead, people can specify their choices any time using a software application 24/7 over the Internet.
+The proposed solution is a system of government, where every citizen has equal influence on the government. Every adult citizen is president, all the time. Elections are not held periodically. Instead, people can specify their choices any time using a software application, 24x7 over the Internet.
 
 This system could start out more like a "Fantasy Government" game app than a branch of government.
 
 There should be checks and balances to prevent mob rule. For example, if enough people voted to lynch someone unpopular, then the other branches of government would enforce the individual's rights and prevent that.
 
-The system lets citizens express their opinions with a high degree of specificity. This "co-decide" system could be applied to democracy or to any other use case where a group needs to form a consensus.
+The system lets citizens express their opinions with a high degree of specificity. This "co-decide" system could be applied to democracy or to any other use case where a group needs to form a consensus. For example: A non-egalitarian organization would give 500M points to the CEO, to the employee's 1M.
 
 
 ## Design Goals
@@ -37,15 +37,15 @@ The new system must meet these criteria:
 
 The proposed solution would function thus:
 
-1. Each voter will be granted an equal number of points. e.g., say 1 million points per voter.
+1. Each **voter** will be granted an equal number of **points**. e.g., say 1 million points per voter.
 
-2. Each voter will be able to create proposals.
+2. Each voter will be able to create **proposals**.
 
-3. Each voter will be able to vote for/against each proposal, by allocating their points for/against the proposal.
+3. Each voter will be able to vote for/against each proposal, by **allocating** their points for/against the proposal.
 
 4. The system will total the for/against allocations for each proposal. This score will determine whether or not the proposal will be implemented.
 
-5. Each voter would be able to delegate some ( or all ) of their points to another voter to allocate to a proposal. This delegation is especially important because no voter has enough time or knowledge at their disposal to be able to make good decisions on all proposals before the government.
+5. Each voter would be able to **delegate** some ( or all ) of their points to another voter to allocate to a proposal. This delegation is especially important because no voter has enough time or knowledge at their disposal to be able to make good decisions on all proposals before the government.
 
     5.1 **Example 1:** Delegating a specific allocation to a single expert. You could say, "This proposal is tagged **"security"**. Delegate 10,000 points, on this proposal, to [Bruce Schneier](https://www.schneier.com), whom I consider a security expert."
 
@@ -81,6 +81,8 @@ One voter may use a **my_vote.xml** from any source they like, including other v
 
 There are several hard problems that I haven't addressed here. I invite you, dear reader, to provide your insights on these issues.
 
+- The system is agnostic to the actual merit of the proposal. This means that celebrities without any expertise could gather more points delegated to them than actual experts in the field.
+
 - Can the system be hacked? ( Information Security )
 In other words, how to secure authentication. There's no authorization. Everyone has equal access to the system. The entire process will be as transparent as possible.
 
@@ -98,5 +100,6 @@ In other words, how to secure authentication. There's no authorization. Everyone
 
 2. [RALLY.org](https://rally.org/onlinegovernment) - cogent video with ideas about online government.
 
+3.
 
 ![guillotine.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1637309778869/FbS-JYxG1.png)
