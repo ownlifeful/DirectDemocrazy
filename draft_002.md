@@ -1,3 +1,5 @@
+# Direct Democracy Re-imagined
+
 Democracy, as it has been implemented so far, has been subject to several logistical constraints which got baked into the very design of the government. Centuries later, the world has changed drastically, but we are still saddled with this archaic system of government that is massively ineffective, however well-intentioned. For example, in the recent past, it was not practical to gather and aggregate the opinions of every citizen on every issue before the government. Hence, there was a need to elect representatives. In the Internet age, however, we can have richly expressive input from individual citizens, and the need for politicians is greatly reduced.
 
 The problems that stem from keeping an out-of-date system of government are many.
@@ -73,15 +75,15 @@ One voter may use a **my_vote.xml** from any source they like, including other v
 
 1. **Power to the People:** This system gives political power back to the people.
 
-2. **Backwards compatible:** This system can grandfather the way the system worked in 2020. You could say, "Make my vote exactly the same as the one published by the Republican Party." This would be the equivalent of casting a ballot for the GOP. Your vote would remain the same until you edit it again. That is, all your 1 million points will be delegated to the GOP, until further notice from you.
+2. **Fewer politicians:**  This system will result in fewer politicians, and thus fewer points of failure.
 
-3. **Fewer politicians:**  This system will result in fewer politicians, and thus fewer points of failure.
+3. **Backwards compatible:** This system can grandfather the way the system worked in 2020. You could say, "Make my vote exactly the same as the one published by the Republican Party." This would be the equivalent of casting a ballot for the GOP. Your vote would remain the same until you edit it again. That is, all your 1 million points will be delegated to the GOP, until further notice from you.
 
 ### Cons:
 
 There are several hard problems that I haven't addressed here. I invite you, dear reader, to provide your insights on these issues.
 
-- The system is agnostic to the actual merit of the proposal. This means that celebrities without any expertise could gather more points delegated to them than actual experts in the field.
+- The system is agnostic to the actual merit of the proposal. This means that celebrities without any expertise could gather more points delegated to them than actual experts in the field. We don't discern merit from popularity, which could be a pitfall. On the other hand, we trust the people.
 
 - Can the system be hacked? ( Information Security )
 In other words, how to secure authentication. There's no authorization. Everyone has equal access to the system. The entire process will be as transparent as possible.
@@ -100,6 +102,6 @@ In other words, how to secure authentication. There's no authorization. Everyone
 
 2. [RALLY.org](https://rally.org/onlinegovernment) - cogent video with ideas about online government.
 
-3.
+3. Cory Doctorow, for introducing the concept of "Whuffie".
 
 ![guillotine.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1637309778869/FbS-JYxG1.png)
