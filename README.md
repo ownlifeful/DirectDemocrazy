@@ -1,4 +1,5 @@
-# Direct Democracy Re-imagined
+# Power to the People
+## Direct Democracy Re-imagined
 
 Democracy, as it has been implemented so far, has been subject to several logistical constraints which got baked into the very design of the government. Centuries later, the world has changed drastically, but we are still saddled with this archaic system of government that is massively ineffective, however well-intentioned. For example, in the recent past, it was not practical to gather and aggregate the opinions of every citizen on every issue before the government. Hence, there was a need to elect representatives. In the Internet age, however, we can have richly expressive input from individual citizens, and the need for politicians is greatly reduced.
 
@@ -96,12 +97,12 @@ In other words, how to secure authentication. There's no authorization. Everyone
 
 
 
-## Acknowledgements:
+## Thanks & Acknowledgements:
 
 1. [We the People, and the Republic we must reclaim](https://youtu.be/mw2z9lV3W1g) - Lawrence Lessig speaks about what is wrong with the government.
 
 2. [RALLY.org](https://rally.org/onlinegovernment) - cogent video with ideas about online government.
 
-3. Cory Doctorow, for introducing the concept of "Whuffie".
+3. [Cory Doctorow](https://en.wikipedia.org/wiki/Cory_Doctorow), for introducing the concept of "Whuffie".
 
-![guillotine.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1637309778869/FbS-JYxG1.png)README
+![guillotine.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1637309778869/FbS-JYxG1.png)
