@@ -3,13 +3,16 @@
 
 Democracy, as it has been implemented so far, has been subject to several logistical constraints which got baked into the very design of the government. Centuries later, the world has changed drastically, but we are still saddled with this archaic system of government that is massively ineffective, however well-intentioned. Until now, it was not practical to gather and aggregate the opinions of every citizen on every issue before the government. Hence, there was a need to elect representatives. In the Internet age, however, we can have richly expressive input from individual citizens, and the need for politicians is greatly reduced.
 
+
+## Problems with our present ***"Democrazy"***
+
 The problems that stem from keeping an out-of-date system of government are many.
 
-1. Government functions with the Consent of the Governed. Power is taken out of the hands of the people and concentrated in the hands of a few elected officials, entrusted to make the best decisions for all. It's apparent, however, that too many of our elected representatives do not act with the public's best interests in mind. Whether or not they're dishonest, or incompetent, is another question altogether.
+Government functions with the Consent of the Governed. Power is taken out of the hands of the people and concentrated in the hands of a few elected officials, entrusted to make the best decisions for all. It's apparent, however, that too many of our elected representatives do not act with the public's best interests in mind. Whether or not they're dishonest, or incompetent, is another question altogether.
 
-2. Money influences and corrupts a representative democracy. The more money you have, the more your opinion affects the government's actions, which in turn, makes you even richer. Money concentrates itself in the hands of a few people.
+Money influences and corrupts a representative democracy. The more money you have, the more your opinion affects the government's actions, which in turn, makes you even richer. Money concentrates itself in the hands of a few people.
 
-3. The consent of the governed, is manufactured by Big Money. Influence over government is ideally 1 vote / citizen. However, due to money's excessive influence on government, what we have is more like 1 vote / dollar.
+The consent of the governed, is manufactured by Big Money. Influence over government is ideally 1 vote / citizen. However, due to money's excessive influence on government, what we have is more like 1 vote / dollar.
 
 What we are left with is a travesty of democracy; a flawed republic, more like a plutocratic oligarchy than a democracy; a TV spectacle of competition between two teams; fodder for political junkies; distraction for the masses.
 
