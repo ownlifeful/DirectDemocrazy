@@ -54,7 +54,7 @@ The proposed solution would function thus:
 
     5.2  **Example 2:** Delegating a specific allocation to a panel of experts. You could say, "This proposal is tagged **"security"**. Delegate 10,000 points, on this proposal. 10% to [Bruce Schneier](https://www.schneier.com) , and 20% to  [Matt Blaze](https://www.mattblaze.org/) , and 70% to [Brianna Wu](https://twitter.com/BriannaWu)."
 
-    5.3 **Example 3:** "Make my vote the same as Joe Smith's, except take all the points he allocated to Defense, and reallocate them to Healthcare ( 70% ) and Education ( 30% )".
+    5.3 **Example 3:** "Make my vote the same as Joe Smith's, except take all the points he allocated to **"defense"**, and reallocate them to Healthcare ( 70% ) and Education ( 30% )".
 
 
 
@@ -103,6 +103,6 @@ In other words, how to secure authentication. There's no authorization. Everyone
 
 2. [RALLY.org](https://rally.org/onlinegovernment) - cogent video with ideas about online government.
 
-3. [Cory Doctorow](https://en.wikipedia.org/wiki/Cory_Doctorow), for introducing the concept of "Whuffie".
+3. [Cory Doctorow](https://en.wikipedia.org/wiki/Cory_Doctorow), for introducing the concept of "Whuffie" ( a social currency ).
 
 ![guillotine.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1637309778869/FbS-JYxG1.png)
