@@ -1,7 +1,7 @@
 # Power to the People
 ## Direct Democracy Re-imagined
 
-Democracy, as it has been implemented so far, has been subject to several logistical constraints which got baked into the very design of the government. Centuries later, the world has changed drastically, but we are still saddled with this archaic system of government that is massively ineffective, however well-intentioned. For example, in the recent past, it was not practical to gather and aggregate the opinions of every citizen on every issue before the government. Hence, there was a need to elect representatives. In the Internet age, however, we can have richly expressive input from individual citizens, and the need for politicians is greatly reduced.
+Democracy, as it has been implemented so far, has been subject to several logistical constraints which got baked into the very design of the government. Centuries later, the world has changed drastically, but we are still saddled with this archaic system of government that is massively ineffective, however well-intentioned. Until now, it was not practical to gather and aggregate the opinions of every citizen on every issue before the government. Hence, there was a need to elect representatives. In the Internet age, however, we can have richly expressive input from individual citizens, and the need for politicians is greatly reduced.
 
 The problems that stem from keeping an out-of-date system of government are many.
 
@@ -25,7 +25,7 @@ This system could start out more like a "Fantasy Government" game app than a bra
 
 There should be checks and balances to prevent mob rule. For example, if enough people voted to lynch someone unpopular, then the other branches of government would enforce the individual's rights and prevent that.
 
-The system lets citizens express their opinions with a high degree of specificity. This "co-decide" system could be applied to democracy or to any other use case where a group needs to form a consensus. For example: A non-egalitarian organization would give 500M points to the CEO, to the employee's 1M.
+The "co-decide" system lets citizens express their opinions with a high degree of specificity. 
 
 
 ## Design Goals
