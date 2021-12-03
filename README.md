@@ -24,11 +24,9 @@ We, the people, demand a system of government that works for all of us, and not 
 
 The proposed solution is a system of government, where every citizen has equal influence on the government. Every adult citizen is president, all the time. Elections are not held periodically. Instead, people can specify their choices any time using a software application, 24x7 over the Internet.
 
-This system could start out more like a "Fantasy Government" game app than a branch of government.
+This system could start out more like a "Fantasy Government" game app than a branch of government. Launching a free ( as in speech & pizza ) game app would help us iron out kinks in the implementation.
 
 There should be checks and balances to prevent mob rule. For example, if enough people voted to lynch someone unpopular, then the other branches of government would enforce the individual's rights and prevent that.
-
-The "co-decide" system lets citizens express their opinions with a high degree of specificity. 
 
 
 ## Design Goals
@@ -82,6 +80,9 @@ One voter may use a **my_vote.xml** from any source they like, including other v
 2. **Fewer politicians:**  This system will result in fewer politicians, and thus fewer points of failure.
 
 3. **Backwards compatible:** This system can grandfather the way the system worked in 2020. You could say, "Make my vote exactly the same as the one published by the Republican Party." This would be the equivalent of casting a ballot for the GOP. Your vote would remain the same until you edit it again. That is, all your 1 million points will be delegated to the GOP, until further notice from you.
+
+4. **Benefits of Crowdsourcing:** This "co-decide" system lets citizens express their opinions with a high degree of specificity. 
+
 
 ### Cons:
 
